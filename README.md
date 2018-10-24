@@ -1,2 +1,6 @@
 # hello-world
-Just another Git repo
+My first repo
+
+Hi,
+
+Heavy Slobs in da house! Hopefully we are gonna have some fun :)
